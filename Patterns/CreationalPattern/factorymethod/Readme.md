@@ -1,5 +1,5 @@
 # Factory Design Pattern
-> #### ➡ It uses a factory class that decides which concrete class to define.
+> #### ➡ It defines an interface for creating objects but allows sublasses to decide which class to initiate.
 > #### ➡ The Factory Pattern will allow us to handle the object creation in a centralized manner, so that we don't need to keep repeating the logic of choosing which vehicle to create in multiple places.
 #
 ### Advantages
