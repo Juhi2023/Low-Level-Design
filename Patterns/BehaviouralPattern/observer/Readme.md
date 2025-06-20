@@ -17,7 +17,7 @@
 > #### 4. Maintainability: The YouTubeChannel stays clean and simple, while the observers handle their own logic. 🔧
 
 #
-### Real-life Use Cases of the Strategy Pattern 🌎
+### Real-life Use Cases of the Observer Pattern 🌎
 > #### 1. Social Media Notifications: When someone you follow posts something, you get a notification.
 > #### 2. Stock Market Alerts: When stock prices change, you are notified.
 > #### 3. Weather Apps: The app notifies you about weather changes.
