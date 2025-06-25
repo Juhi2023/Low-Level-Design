@@ -4,9 +4,9 @@
 > #### ➡ Provides an intuitive interface to interact with the application and hide complex and diverse underlying subsystems.
 #
 ### How the Facade Pattern Works 🔧
-> #### 1. Intrinsic State: Shared properties stored in Facade objects
-> #### 2. Extrinsic State: Unique properties passed as parameters
-> #### 3. Facade Factory: Manages Facade object creation and sharing
+> #### 1. Client
+> #### 2. Sub-systems
+> #### 3. Facade
 
 #
 ### Adavantages
