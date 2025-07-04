@@ -11,6 +11,6 @@ class Main{
             .withTimeout(60)
             .build();
 
-        request.execute();
+        r.execute();
     }
 }
