@@ -20,9 +20,9 @@ public class Main{
         entities.add(new Ladder(78, 90));
         entities.add(new Ladder(25, 50));
         entities.add(new Ladder(20, 61));
-        entities.add(new Snake(2, 45));
-        entities.add(new Snake(67, 95));
-        entities.add(new Snake(56, 71));
+        entities.add(new Snake(45, 2));
+        entities.add(new Snake(95, 67));
+        entities.add(new Snake(71, 56));
 
         SnakeAndLadder game = new SnakeAndLadder(10, players, new HumanSetupStrategy(entities));
         game.addObserver(o);
